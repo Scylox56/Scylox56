@@ -35,32 +35,32 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=FFFFFF" alt="JavaScript" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=FFFFFF" alt="TypeScript" width="40" />
 
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-white.svg" alt="Bootstrap" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=58811&format=png&color=FFFFFF" alt="React" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF" alt="Next.js" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=23028&format=png&color=FFFFFF" alt="HTML5" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=38272&format=png&color=FFFFFF" alt="CSS3" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=jzdnK5083LbB&format=png&color=FFFFFF" alt="Tailwind CSS" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=ldQqWiIRv9bc&format=png&color=FFFFFF" alt="Bootstrap" width="40" />
 
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=FFFFFF" alt="Node.js" width="40" />
   <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" alt="Express.js" width="40" />
 
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=Y9VdL7V5XPIc&format=png&color=FFFFFF" alt="MongoDB" width="40" />
 
 </p>
 
