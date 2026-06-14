@@ -3,20 +3,20 @@
 
 <img src="Cyberpunk_2077_1080gif.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## About Me
 - 💻 Full-stack developer - MERN stack
 - 🎨 UI/UX background - I care about how things look and feel
 - 🚀 Building toward full-stack mastery, one project at a time
 
 
-## 🧠 My Focus Areas
+## My Focus Areas
 - **React & Frontend** Component design, state management, clean UX
 - **Backend APIs** Node.js / Express · REST API
 - **Databases** MongoDB, SQL — designing schemas that scale
 - **UI/UX Design** Bridging design and code to production
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/Scylox56">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Scylox56&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Scylox56's GitHub Stats" />
@@ -25,7 +25,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -74,14 +74,14 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-k06/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
 </p>
 
-## 💬 Quote
+## Quote
 > "He who is not bold enough to be stared at from across the abyss, is not bold enough to stare into it himself."
 
 <p align="center">
