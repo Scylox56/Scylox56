@@ -17,12 +17,12 @@
 
 ## 🧠 My Focus Areas
 - **React & Frontend** Component design, state management, clean UX
-- **Backend APIs** Node.js / Express · REST
+- **Backend APIs** Node.js / Express · REST API
 - **Databases** MongoDB, SQL — designing schemas that scale
 - **UI/UX Design** Bridging design and code to production
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Scylox56">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Scylox56&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Scylox56's GitHub Stats" />
@@ -66,10 +66,10 @@
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=FFFFFF" alt="Git" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=SNeRmWiOLnK7&format=png&color=FFFFFF" alt="VS Code" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=09t4A5rONHMc&format=png&color=FFFFFF" alt="Webpack" width="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
 </p>
