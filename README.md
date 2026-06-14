@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media1.tenor.com/m/UTHVgziQbq8AAAAd/cyberpunk-2077.gif" alt="Banner" width="100%" />
+<img src="Cyberpunk_2077_1080gif.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💻 Full-stack developer - MERN stack
