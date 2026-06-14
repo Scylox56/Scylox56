@@ -66,7 +66,7 @@
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=FFFFFF" alt="Git" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=32891&format=png&color=FFFFFF" alt="Git" width="40" />
   <img src="https://img.icons8.com/?size=100&id=SNeRmWiOLnK7&format=png&color=FFFFFF" alt="VS Code" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
   <img src="https://img.icons8.com/?size=100&id=09t4A5rONHMc&format=png&color=FFFFFF" alt="Webpack" width="40" />
