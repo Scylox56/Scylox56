@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Abdelrahman Khaled</h1>
 <h3 align="center">Full-Stack Developer | React & Node.js (MERN) Developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Scylox56">
-    <img src="https://komarev.com/ghpvc/?username=Scylox56&label=Profile%20views&color=00FFFF&style=flat-square" alt="Scylox56's profile views" />
-  </a>
-</p>
-
 <img src="Cyberpunk_2077_1080gif.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -90,3 +84,8 @@
 ## 💬 Quote
 > "He who is not bold enough to be stared at from across the abyss, is not bold enough to stare into it himself."
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Scylox56">
+    <img src="https://komarev.com/ghpvc/?username=Scylox56&label=Profile%20views&color=00FFFF&style=flat-square" alt="Scylox56's profile views" />
+  </a>
+</p>
