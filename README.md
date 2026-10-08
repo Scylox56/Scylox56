@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Abdelrahman Khaled</h1>
-<h3 align="center">Full-Stack Developer | React & Node.js (MERN) Developer</h3>
+<h3 align="center">Full-Stack Developer | React, Node.js & ASP.NET Core</h3>
 
 <img src="Cyberpunk_2077_1080gif.gif" alt="Banner" width="100%" />
 
