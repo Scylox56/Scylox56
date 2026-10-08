@@ -69,12 +69,15 @@
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=32891&format=png&color=FFFFFF" alt="Git" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=SNeRmWiOLnK7&format=png&color=FFFFFF" alt="VS Code" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=09t4A5rONHMc&format=png&color=FFFFFF" alt="Webpack" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
+  <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Webpack-0d1117?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <p align="center">
