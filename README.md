@@ -4,15 +4,15 @@
 <img src="Cyberpunk_2077_1080gif.gif" alt="Banner" width="100%" />
 
 ## About Me
-- 💻 Full-stack developer - MERN stack
+- 💻 Full-stack developer - MERN stack + ASP.NET Core
 - 🎨 UI/UX background - I care about how things look and feel
 - 🚀 Building toward full-stack mastery, one project at a time
 
 
 ## My Focus Areas
-- **React & Frontend** Component design, state management, clean UX
-- **Backend APIs** Node.js / Express · REST API
-- **Databases** MongoDB, SQL — designing schemas that scale
+- **React & Frontend** Component design, state management, clean UX, GSAP animations
+- **Backend APIs** ASP.NET Core (.NET 8) · Node.js / Express · REST API
+- **Databases** SQL Server, EF Core, MongoDB — designing schemas that scale
 - **UI/UX Design** Bridging design and code to production
 
 
@@ -27,35 +27,44 @@
 
 ## Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=FFFFFF" alt="JavaScript" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=cHBUT9SmrD2V&format=png&color=FFFFFF" alt="TypeScript" width="40" />
-
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=9B4F96" />
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=58811&format=png&color=FFFFFF" alt="React" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF" alt="Next.js" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=23028&format=png&color=FFFFFF" alt="HTML5" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=38272&format=png&color=FFFFFF" alt="CSS3" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=jzdnK5083LbB&format=png&color=FFFFFF" alt="Tailwind CSS" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=ldQqWiIRv9bc&format=png&color=FFFFFF" alt="Bootstrap" width="40" />
-
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=FQlr_bFSqEdG&format=png&color=FFFFFF" alt="Node.js" width="40" />
-  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF" alt="Express.js" width="40" />
-
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=Y9VdL7V5XPIc&format=png&color=FFFFFF" alt="MongoDB" width="40" />
+  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
 
+<h3 align="center">Tools & Deployment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 </p>
 
 <h3 align="center">Tools</h3>
